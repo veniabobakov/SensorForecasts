@@ -7,6 +7,7 @@ Forecaststing air population by temporal graph neural network
 - [Stack of technologies](#Stack-of-technologies)
 - [Task description](#Task-description)
 - [Experimental Results](#Experimental-Results)
+- [References](#References)
 
 ##  Stack of technologies 🏗
 
