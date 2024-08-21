@@ -1,0 +1,9 @@
+dataset: belyy
+features: multi
+seq_len: 96
+horizon: 1
+cut: null
+runs: 1
+n_epochs: 15
+val_interval: 1
+output_dir: /Users/user/PycharmProjects/SensorForecasts/outputs/
