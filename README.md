@@ -16,7 +16,7 @@ Forecaststing air population by temporal graph neural network
 
 ## Task description 📋
 
-There is air pollution data for 25 parameters. It is necessary to create correlation matrices for these parameters over a period of several samples and on this basis predict the correlation matrix and indicators for the following periods.
+It is necessary to compare graph and classical methods for predicting time series on climate data of the Beliy Island
 
 ##  Experimental Results📈
 
